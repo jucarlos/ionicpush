@@ -1,0 +1,65 @@
+[
+  {
+    "idAviso": 34549793,
+    "idColectivo": 22,
+    "colectivo": "Usuarios de Papas",
+    "titulo": "Primera noticia en el tabón de anuncios",
+    "texto": "<p><strong><span style=\"text-decoration: underline;\">Primera noticia en el tab&oacute;n de anuncios</span></strong></p>\r\n<p>En este enlace puedes encontrar v&iacute;deos de ayuda</p>\r\n<p><strong><span style=\"text-decoration: underline;\"><br /></span></strong></p>",
+    "fechaInicioVigencia": "31/03/2020",
+    "fechaFinVigencia": "05/04/2020"
+  },
+  {
+    "idAviso": 34549793,
+    "idColectivo": 22,
+    "colectivo": "Usuarios de Papas",
+    "titulo": "Primera noticia en el tabón de anuncios",
+    "texto": "<p><strong><span style=\"text-decoration: underline;\">Primera noticia en el tab&oacute;n de anuncios</span></strong></p>\r\n<p>En este enlace puedes encontrar v&iacute;deos de ayuda</p>\r\n<p><strong><span style=\"text-decoration: underline;\"><br /></span></strong></p>",
+    "fechaInicioVigencia": "31/03/2020",
+    "fechaFinVigencia": "05/04/2020"
+  },
+  {
+    "idAviso": 34549712,
+    "idColectivo": 22,
+    "colectivo": "Usuarios de Papas",
+    "titulo": "Noticia para los Coordinadores",
+    "texto": "<p style=\"text-align: justify;\">Noticia para los Coordinadores: <a href=\"https://www.google.es\">Nos vamos a Google</a> A partir del 12/05/2020 estará disponible la funcionalidad de crear avisos para grupos reducidos<p>",
+    "fechaInicioVigencia": "30/03/2020",
+    "fechaFinVigencia": "30/05/2020"
+  },
+  {
+    "idAviso": 34549752,
+    "idColectivo": 22,
+    "colectivo": "Usuarios de Papas",
+    "titulo": "Prueba aviso coordinador contenido",
+    "texto": "<p>Contenido Prueba aviso coordinador&nbsp;<strong>contenido</strong></p>",
+    "fechaInicioVigencia": "31/03/2020",
+    "fechaFinVigencia": "06/04/2020"
+  },
+  {
+    "idAviso": 34549752,
+    "idColectivo": 22,
+    "colectivo": "Usuarios de Papas",
+    "titulo": "Prueba aviso coordinador contenido",
+    "texto": "<p>Contenido Prueba aviso coordinador&nbsp;<strong>contenido</strong></p>",
+    "fechaInicioVigencia": "31/03/2020",
+    "fechaFinVigencia": "06/04/2020"
+  },
+  {
+    "idAviso": 34549713,
+    "idColectivo": 26,
+    "colectivo": "Padres y Madres de Seguimiento",
+    "titulo": "Noticia para Padres y Profesores",
+    "texto": "<p><strong>Noticia para Padres y Profesores</strong>: A partir del 12/05/2020 podr&aacute;n ver en el tabl&oacute;n de anuncios noticias personalizadas</p>",
+    "fechaInicioVigencia": "30/03/2020",
+    "fechaFinVigencia": "24/06/2020"
+  },
+  {
+    "idAviso": 34549713,
+    "idColectivo": 26,
+    "colectivo": "Padres y Madres de Seguimiento",
+    "titulo": "Noticia para Padres y Profesores",
+    "texto": "<p><strong>Noticia para Padres y Profesores</strong>: A partir del 12/05/2020 podr&aacute;n ver en el tabl&oacute;n de anuncios noticias personalizadas</p>",
+    "fechaInicioVigencia": "30/03/2020",
+    "fechaFinVigencia": "24/06/2020"
+  }
+]

@@ -1,0 +1,46 @@
+ion-menu-button {
+  color: var(--ion-color-primary);
+}
+
+ion-content ion-toolbar {
+  --background: transparent;
+}
+
+ion-title.headerTitle {
+  --color: var(--ion-color-primary);
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin-right: 48px;
+}
+
+ion-title.footer {
+  font-size: 0.9rem;
+  text-align: center;
+  --color: var(--ion-color-medium-shade);
+}
+
+ion-item ion-icon {
+  margin-right: 12px;
+}
+
+ion-card {
+  margin: 20px;
+}
+
+ion-card-title {
+  font-size: 1rem;
+  font-weight: bold;
+  white-space: initial;
+}
+
+ion-card-header ion-card-subtitle {
+  font-size: 1rem;
+  white-space: initial;
+}
+
+ion-searchbar {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
